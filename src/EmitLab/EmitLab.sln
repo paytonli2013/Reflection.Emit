@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitLab", "EmitLab\EmitLab.csproj", "{BCF9AB88-3A7B-4DD2-B647-9764F38FC85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmitLab.Console", "EmitLab.Console\EmitLab.Console.csproj", "{A139A672-B3FC-41E5-B52C-23DEB3B8B93F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCF9AB88-3A7B-4DD2-B647-9764F38FC85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF9AB88-3A7B-4DD2-B647-9764F38FC85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF9AB88-3A7B-4DD2-B647-9764F38FC85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF9AB88-3A7B-4DD2-B647-9764F38FC85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A139A672-B3FC-41E5-B52C-23DEB3B8B93F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A139A672-B3FC-41E5-B52C-23DEB3B8B93F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A139A672-B3FC-41E5-B52C-23DEB3B8B93F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A139A672-B3FC-41E5-B52C-23DEB3B8B93F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
